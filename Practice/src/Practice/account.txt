@@ -1,0 +1,5 @@
+1,Satya,2000
+2,Naresh,3000
+3,Pranay,4000
+4,Kishore,5000
+5,Ram,6000
